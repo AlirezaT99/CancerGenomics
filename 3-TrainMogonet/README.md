@@ -13,3 +13,7 @@ git clone https://github.com/txWang/MOGONET.git
 3. Run `main_mogonet.py` to train the network and store the model
 
 4. Run `main_biomarker.py` to evaluate the feature importances and extract biomarkers from the model.
+
+### Alternative approach
+
+Or you can configurate the `runner.py` code and run it.
